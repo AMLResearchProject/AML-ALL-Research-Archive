@@ -3,12 +3,12 @@
 
 The Acute Myeloid/Lymphoblastic Leukemia AI Research Drugs Archive provides an archive of all Acute Myeloid/Lymphoblastic Leukemia related drugs that we come across during research and development.
 
-# Azacitidine (Vidaza®)
+# Azacitidine (Vidaza®)  
 "Azacitidine (Vidaza®) is a chemotherapy drug used to treat conditions that affect the blood and the bone marrow, called myelodysplastic syndromes (MDS). It may also be used to treat other cancers, such as acute myeloid leukaemia (AML) or chronic myelomonocytic leukaemia (CMML)."
 
  [Source Macmillan.org.uk](https://www.macmillan.org.uk/information-and-support/treating/chemotherapy/drugs-and-combination-regimens/individual-drugs/azacitidine.html "Source Macmillan.org.uk").
 
-# Glasdegib (Daurismo)
+# Glasdegib (Daurismo)  
 "The FDA has approved glasdegib (Daurismo) for use in combination with low-dose cytarabine (LDAC) for the treatment of patients with newly-diagnosed acute myeloid leukemia (AML) who are aged 75 years or older or who are ineligible for intensive chemotherapy."
 
  [Source onclive.com](https://www.onclive.com/web-exclusives/fda-approves-glasdegib-for-frontline-aml "Source onclive.com").
