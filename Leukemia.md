@@ -12,6 +12,7 @@ Like other cancers, there are many kinds of leukemia. The most common leukemias 
 The different types of leukemias are associated with different symptoms, prognoses, treatments, and genetic causes. Part of making a correct diagnosis involves analyzing patients blood cells under a microscope after chemical staining, called a “blood smear”. Different leukemias are associated with different visual features of blood cells, such as their shape, color upon staining, and size.
 
 ![Blood smear showing acute myeloid leukemia cells](Media/Images/Leukemia.jpg) 
+
 Figure 1: Blood smear showing acute myeloid leukemia cells
 
 Our project involves using the latest artificial intelligence methods for automated classification of leukemias from blood smears. Successful classification will aid physicians. We may also discover new blood smear features that can aid classification.
