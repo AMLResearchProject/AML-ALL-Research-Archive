@@ -8,6 +8,11 @@ The Acute Myeloid/Lymphoblastic Leukemia AI Research Drugs Archive provides an a
 
  [Source Macmillan.org.uk](https://www.macmillan.org.uk/information-and-support/treating/chemotherapy/drugs-and-combination-regimens/individual-drugs/azacitidine.html "Source Macmillan.org.uk").
 
+# Glasdegib (Daurismo)
+"The FDA has approved glasdegib (Daurismo) for use in combination with low-dose cytarabine (LDAC) for the treatment of patients with newly-diagnosed acute myeloid leukemia (AML) who are aged 75 years or older or who are ineligible for intensive chemotherapy."
+
+ [Source onclive.com](https://www.onclive.com/web-exclusives/fda-approves-glasdegib-for-frontline-aml "Source onclive.com").
+
 # Community Driven
 The project was initially create with the hope other developers and people in the medical industry may find the software and tutorials useful and may contribute back to the Github community helping improve the project. Feel free to submit pull requests with your suggested edits / bug fixes / additions to the related repositories on Github.
 
