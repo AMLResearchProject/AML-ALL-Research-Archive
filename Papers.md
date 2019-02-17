@@ -19,6 +19,11 @@ Introduced to the project by [Ho Leung Ng](https://github.com/holeung "Ho Leung 
 |  Peripheral blood smear image analysis: A comprehensive review |  [Paper](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/PIXSIA2K "Paper") |
 |  Diagnosing Leukemia in Blood Smear Images Using an Ensemble of Classifiers and Pre-Trained Convolutional Neural Networks |  [Paper](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/35IIRLBU "Paper") |
 
+# Functional genomic landscape of acute myeloid leukaemia
+Paper on the functional genomic landscape of acute myeloid leukaemia by Tyner et al. [Paper](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/CNN-AML-Papers.md "Paper").
+
+Introduced to the project by [Ho Leung Ng](https://github.com/AdamMiltonBarker "Ho Leung Ng").
+
 # Community Driven
 The project was initially create with the hope other developers and people in the medical industry may find the software and tutorials useful and may contribute back to the Github community helping improve the project. Feel free to submit pull requests with your suggested edits / bug fixes / additions to the related repositories on Github.
 
