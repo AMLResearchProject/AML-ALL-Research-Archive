@@ -6,6 +6,16 @@ The Acute Myeloid/Lymphoblastic Leukemia AI Research Code Archive provides an ar
 # ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)
 [ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)](https://github.com/aspuru-guzik-group/ORGANIC "ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)") is an efficient molecular generation tool, able to create molecules with desired properties. It has a user-oriented interface, and doesn't require a HPC cluster. Feel free to check our article about ORGANIC and/or contact the developers if you have any issue or are interested in collaborations.
 
+# albumentations
+Fast image augmentation library and easy to use wrapper around other libraries 
+https://arxiv.org/abs/1809.06839
+https://github.com/albu/albumentations
+
+# Augmentor
+Image augmentation library in Python for machine learning. 
+http://augmentor.readthedocs.io
+https://github.com/mdbloice/Augmentor
+
 Introduced to the project by [Ho Leung Ng](https://github.com/holeung "Ho Leung Ng").
 
 # Community Driven
