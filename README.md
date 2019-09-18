@@ -62,7 +62,7 @@ The project is split up into multiple smaller projects. The current structure in
 
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Archive")
 
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Classifiers](https://github.com/AMLResearchProject/AML-ALL-Research-Archive "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Classifiers")
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Classifiers](https://github.com/AMLResearchProject/AML-ALL-Classifiers "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Classifiers")
 
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Detection System](https://github.com/AMLResearchProject/AML-ALL-Detection-System "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Detection System")
 
