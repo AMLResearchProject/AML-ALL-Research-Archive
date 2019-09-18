@@ -1,6 +1,4 @@
-# Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project Archive
-
-![Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project Archive](Media/Images/Page-Banner.png)
+![Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project Archive](Media/Images/research-archives-banner.png)
 
 The Acute Myeloid/Lymphoblastic Leukemia AI Research Leukemia Information Archive provides an archive of Leukemia related information that we come across during research and development.
 

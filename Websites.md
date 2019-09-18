@@ -1,6 +1,6 @@
 # Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Project Websites Archive
 
-![Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Project Archive](Media/Images/Page-Banner.png)
+![Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project Archive](Media/Images/research-archives-banner.png)
 
 The Acute Myeloid/Lymphoblastic Leukemia AI Research Websites Archive provides an archive of all public Acute Myeloid/Lymphoblastic Leukemia related websites / online content that we come across during our R&D. We also greatly appreciate community members that have had experiences with AML/ALL sharing their experience and advice to the community.
 

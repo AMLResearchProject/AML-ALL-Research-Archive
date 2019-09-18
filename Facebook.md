@@ -1,6 +1,6 @@
 # Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Project Facebook Archive
 
-![Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Project Archive](Media/Images/Page-Banner.png)
+![Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project Archive](Media/Images/research-archives-banner.png)
 
 The Acute Myeloid/Lymphoblastic Leukemia AI Research Facebook Archive provides an archive of all Acute Myeloid/Lymphoblastic Leukemia related Facebook pages / Facebook groups that we come across during our R&D, as well as our own links. We also greatly appreciate community members that have had experiences with AML/ALL sharing their experience and advice to the community.
 
