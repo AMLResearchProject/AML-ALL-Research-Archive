@@ -28,9 +28,9 @@ The primary research archives are as follows:
 
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Code Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/blob/master/Code.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Code Archive")
 
-- [Acute Myeloid/Lymphoblastic Leukemia Related Websites Archive](https://github.com/AMLResearchProject/blob/master/Websites "Acute Myeloid/Lymphoblastic Leukemia Related Websites Archive")
+- [Acute Myeloid/Lymphoblastic Leukemia Related Websites Archive](https://github.com/AMLResearchProject/blob/master/Websites.md "Acute Myeloid/Lymphoblastic Leukemia Related Websites Archive")
 
-- [Acute Myeloid/Lymphoblastic Leukemia Related Facebook Facebook Page, Group & Fundraisers](https://github.com/AMLResearchProject/blob/master/Facebook "Acute Myeloid/Lymphoblastic Leukemia Related Facebook Page, Group & Fundraisers Archive")
+- [Acute Myeloid/Lymphoblastic Leukemia Related Facebook Facebook Page, Group & Fundraisers](https://github.com/AMLResearchProject/blob/master/Facebook.md "Acute Myeloid/Lymphoblastic Leukemia Related Facebook Page, Group & Fundraisers Archive")
 
 # About The Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project
 
