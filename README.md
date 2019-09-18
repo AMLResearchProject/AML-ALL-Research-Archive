@@ -38,6 +38,8 @@ The project is being coordinated by a group of volunteers with experience in com
 
 The purpose of the project is to share public information related to AML/ALL, as well as open source projects aimed at early dectection with convolutional neural networks, using natural language understanding for AML/ALL chatbots, and R&D for discovering potential candidates for drugs for AML/ALL.
 
+## Project Team
+
 The official team is currently made up of:
 
 - [Adam Milton-Barker](https://github.com/orgs/AMLResearchProject/people/AdamMiltonBarker "Adam Milton-Barker") - Bigfinite IoT Network Engineer & Intel Software Innovator
