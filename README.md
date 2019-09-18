@@ -10,7 +10,7 @@ Links to all public research papers, code, tutorials and datasets that we come a
 
 ## Research Archives
 
-Our research archives will contain all public information we are able to find that is related to Acute Myeloid/Lymphoblastic Leukemia if we feel the information is relevant. We also would greatly appreciate others that have had experiences with AML/ALL sharing their experience and advice to the community.
+Our research archives will contain all public information we are able to find that is related to Acute Myeloid/Lymphoblastic Leukemia if we feel the information is relevant. We also greatly appreciate community members that have had experiences with AML/ALL sharing their experience and advice to the community.
 
 If you are not a dev/know how to use Github please email and it will be verified and uploaded on your behalf.
 

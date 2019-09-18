@@ -1,14 +1,12 @@
-# Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Project Archive
+# Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Project Websites Archive
 
 ![Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Project Archive](Media/Images/Page-Banner.png)
 
-The Acute Myeloid/Lymphoblastic Leukemia AI Research Code Archive provides an archive of all Acute Myeloid/Lymphoblastic Leukemia related code and repositories that we come across during research and development.
+The Acute Myeloid/Lymphoblastic Leukemia AI Research Websites Archive provides an archive of all public Acute Myeloid/Lymphoblastic Leukemia related websites / online content that we come across during our R&D. We also greatly appreciate community members that have had experiences with AML/ALL sharing their experience and advice to the community.
 
-# ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)
+# Acute Lymphoblastic Leukemia Image Database for Image Processing
 
-[ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)](https://github.com/aspuru-guzik-group/ORGANIC "ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)") is an efficient molecular generation tool, able to create molecules with desired properties. It has a user-oriented interface, and doesn't require a HPC cluster. Feel free to check our article about ORGANIC and/or contact the developers if you have any issue or are interested in collaborations.
-
-Thanks to Ho
+The [Acute Lymphoblastic Leukemia Image Database for Image Processing](https://homes.di.unimi.it/scotti/all/) dataset is used for this project. The dataset was created by [Fabio Scotti, Associate Professor Dipartimento di Informatica, Università degli Studi di Milano](https://homes.di.unimi.it/scotti/). You will need to follow the steps outlined [here](https://homes.di.unimi.it/scotti/all/#download) to gain access to the dataset.
 
 # Albumentations
 
@@ -22,7 +20,35 @@ Image augmentation library in Python for machine learning.
 http://augmentor.readthedocs.io
 https://github.com/mdbloice/Augmentor
 
-Introduced to the project by [Ho Leung Ng](https://github.com/holeung "Ho Leung Ng").
+# Hematology Atlas
+
+The [Hematology Atlas Leukemias](http://hematologyatlas.com/leukemias.htm) dataset contains examples of various types of Leukemia. You can obtain permissions to use the dataset by contacting Dr. Nivaldo through the contact page on [Hematology Atlas contact page](http://hematologyatlas.com/contact.htm).
+
+Introduced to the project by [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics.
+
+# ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)
+
+[ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)](https://github.com/aspuru-guzik-group/ORGANIC "ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)") is an efficient molecular generation tool, able to create molecules with desired properties. It has a user-oriented interface, and doesn't require a HPC cluster. Feel free to check our article about ORGANIC and/or contact the developers if you have any issue or are interested in collaborations.
+
+Thanks to [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics, the team has been granted permission from the developers to integrate their project into the [Acute Myeloid/Lymphoblastic Leukemia Drug Discovery Project](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Drug Discovery Project") which we are very grateful for!
+
+- [Leukemia Blood Cell Image Classification Using Convolutional Neural Network](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/9PAG39NJ "Leukemia Blood Cell Image Classification Using Convolutional Neural Network")
+
+- [Classification of acute myelogenous leukemia in blood microscopic images using supervised classifier](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/9XX3M296 "Classification of acute myelogenous leukemia in blood microscopic images using supervised classifier")
+
+- [Image processing and machine learning in the morphological analysis of blood cells](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/D9GAQJBC "Image processing and machine learning in the morphological analysis of blood cells")
+
+- [Detection of leukemia and its types using image processing and machine learning](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/KPE7L22C "Detection of leukemia and its types using image processing and machine learning")
+
+- [Acute Leukemia Classification Using Convolution Neural Network in Clinical Decision Support System](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/LRXMVLNR "Acute Leukemia Classification Using Convolution Neural Network in Clinical Decision Support System")
+
+- [All-IDB: The acute lymphoblastic leukemia image database for image processing](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/3IKQRUG2 "All-IDB: The acute lymphoblastic leukemia image database for image processing")
+
+- [Peripheral blood smear image analysis: A comprehensive review](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/PIXSIA2K "Peripheral blood smear image analysis: A comprehensive review")
+
+- [Diagnosing Leukemia in Blood Smear Images Using an Ensemble of Classifiers and Pre-Trained Convolutional Neural Networks](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/35IIRLBU "Diagnosing Leukemia in Blood Smear Images Using an Ensemble of Classifiers and Pre-Trained Convolutional Neural Networks")
+
+Introduced to the project by [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics.
 
 # Community Driven
 
