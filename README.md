@@ -68,6 +68,10 @@ The project is split up into multiple smaller projects. The current structure in
 
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Drug Discovery](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Drug Discovery")
 
+- [Acute Myeloid/Lymphoblastic Leukemia Related Websites](https://github.com/AMLResearchProject/Websites "Acute Myeloid/Lymphoblastic Leukemia Related Websites")
+
+- [Acute Myeloid/Lymphoblastic Leukemia Related Facebook Pages & Groups](https://github.com/AMLResearchProject/Facebook "Acute Myeloid/Lymphoblastic Leukemia Related Facebook Pages & Groups")
+
 # The Peter Moss Acute Myeloid / Lymphoblastic Leukemia AI Student Program
 
 ![The Peter Moss Acute Myeloid / Lymphoblastic Leukemia AI Student Program](Media/Images/Student-Page-Banner.png)
