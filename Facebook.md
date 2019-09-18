@@ -24,11 +24,17 @@ The Acute Myeloid/Lymphoblastic Leukemia AI Research Facebook Page, Group & Fund
 
 - [Breast Cancer AI](https://www.facebook.com/BreastCancerAI "Breast Cancer AI")
 
+- [Fundación Josep Carreras contra la leucemia](https://www.facebook.com/BreastCancerAI "Fundación Josep Carreras contra la leucemia")
+
 - [Hematology Oncology Associates of The Treasure Coast, Port St Lucie](https://www.facebook.com/pages/Hematology-Oncology-Associates-of-The-Treasure-Coast/161402963887385 "Hematology Oncology Associates of The Treasure Coast, Port St Lucie")
 
-- [Moffitt Cancer Center](https://www.facebook.com/MoffittCancerCenter "Moffitt Cancer Center")
+* [Hospital Clinic Barcelona](https://www.facebook.com/HospitalClinicDeBarcelona/ "Hospital Clinic Barcelona")
 
-- [Miles For Moffitt](https://www.facebook.com/MilesforMoffitt/ "Miles For Moffitt")
+* [Miles For Moffitt](https://www.facebook.com/MilesforMoffitt/ "Miles For Moffitt")
+
+* [Moffitt Cancer Center](https://www.facebook.com/MoffittCancerCenter "Moffitt Cancer Center")
+
+* [Williams Cancer Institute](https://www.facebook.com/cryoimmunotherapy/ "Williams Cancer Institute")
 
 ## Facebook Fundraisers
 
