@@ -30,6 +30,8 @@ The primary research archives are as follows:
 
 # About The Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project
 
+![The Peter Moss Acute Myeloid / Lymphoblastic Leukemia AI Student Program](Media/Images/Page-Banner.png)
+
 The Peter Moss Acute Myeloid / Lymphoblastic Leukemia AI Research Project is an open source project with the goals of leveraging Artificial Intelligence to help detect AML/ALL and discover potential candidates for drugs to help combat the diseases. The project is in memory of Peter Edward Moss who lost his battle with Acute Myeloid Leukemia in August 2019.
 
 The project is being coordinated by a group of volunteers with experience in computer vision / natural language processing, Leukemia research, Biochemistry, Molecular Biophysics, Immunology and Bioinformation.
@@ -63,6 +65,14 @@ The project is split up into multiple smaller projects. The current structure in
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Detection System](https://github.com/AMLResearchProject/AML-ALL-Detection-System "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Detection System")
 
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Drug Discovery](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Drug Discovery")
+
+# The Peter Moss Acute Myeloid / Lymphoblastic Leukemia AI Student Program
+
+![The Peter Moss Acute Myeloid / Lymphoblastic Leukemia AI Student Program](Media/Images/Student-Page-Banner.png)
+
+The Peter Moss Aml/All AI Student Program​ provides college & university students with real world projects & experience in working with AI for medical purposes, helping further their education and understanding of real world medical AI systems.
+
+The Student Program is headed by Peter Moss Aml/All AI Research Project​ team members [Ho Leung Ng](https://github.com/holeung "Ho  Leung Ng")​ - Dept. Biochemistry & Molecular Biophysics @ Kansas State University, and [Amita Kapoor](https://github.com/amita-kapoor "Amita Kapoor")​ - Associate Professor @ Delhi University.
 
 # Community Driven
 
