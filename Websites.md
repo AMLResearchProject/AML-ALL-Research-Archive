@@ -8,7 +8,7 @@ The Acute Myeloid/Lymphoblastic Leukemia AI Research Code Archive provides an ar
 
 [ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)](https://github.com/aspuru-guzik-group/ORGANIC "ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)") is an efficient molecular generation tool, able to create molecules with desired properties. It has a user-oriented interface, and doesn't require a HPC cluster. Feel free to check our article about ORGANIC and/or contact the developers if you have any issue or are interested in collaborations.
 
-Thanks to [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics, the team has been granted permission from the developers to integrate their project into the [Acute Myeloid/Lymphoblastic Leukemia Drug Discovery Project](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Drug Discovery Project") which we are very grateful for!
+Thanks to Ho
 
 # Albumentations
 

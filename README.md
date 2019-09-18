@@ -54,6 +54,8 @@ The official team is currently made up of:
 
 The project is split up into multiple smaller projects. The current structure includes:
 
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Student Program](https://github.com/AMLResearchProject/AML-ALL-AI-Student-Program "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Student Program")
+
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Archive")
 
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Classifiers](https://github.com/AMLResearchProject/AML-ALL-Research-Archive "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Classifiers")
@@ -61,8 +63,6 @@ The project is split up into multiple smaller projects. The current structure in
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Detection System](https://github.com/AMLResearchProject/AML-ALL-Detection-System "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Detection System")
 
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Drug Discovery](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Drug Discovery")
-
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Student Program](https://github.com/AMLResearchProject/AML-ALL-AI-Student-Program "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Student Program")
 
 # Community Driven
 

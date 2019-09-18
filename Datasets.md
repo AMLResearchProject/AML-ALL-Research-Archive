@@ -1,6 +1,6 @@
-# Acute Myeloid/Lymphoblastic Leukemia AI Research Datasets Archive
+# Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Project Archive
 
-![Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project](Media/Images/banner.png)
+![Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Project Archive](Media/Images/Page-Banner.png)
 
 The Acute Myeloid/Lymphoblastic Leukemia AI Research Datasets Archive provides an archive of all Acute Myeloid/Lymphoblastic Leukemia related datasets that we come across during research and development.
 
@@ -8,13 +8,15 @@ The Acute Myeloid/Lymphoblastic Leukemia AI Research Datasets Archive provides a
 
 The [Acute Lymphoblastic Leukemia Image Database for Image Processing](https://homes.di.unimi.it/scotti/all/) dataset is used for this project. The dataset was created by [Fabio Scotti, Associate Professor Dipartimento di Informatica, Università degli Studi di Milano](https://homes.di.unimi.it/scotti/). You will need to follow the steps outlined [here](https://homes.di.unimi.it/scotti/all/#download) to gain access to the dataset.
 
-Introduced to the project by [Ho Leung Ng](https://github.com/holeung "Ho  Leung Ng").
+Introduced to the project by [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics.
 
 # Hematology Atlas
 
 The [Hematology Atlas Leukemias](http://hematologyatlas.com/leukemias.htm) dataset contains examples of various types of Leukemia. You can obtain permissions to use the dataset by contacting Dr. Nivaldo through the contact page on [Hematology Atlas contact page](http://hematologyatlas.com/contact.htm).
 
-Introduced to the project by [Ho Leung Ng](https://github.com/holeung "Ho  Leung Ng").# Community Driven
+Introduced to the project by [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics.
+
+# Community Driven
 
 The project was initially create with the hope other developers and people in the medical industry may find the software and tutorials useful and may contribute back to the Github community helping improve the project. Feel free to submit pull requests with your suggested edits / bug fixes / additions to the related repositories on Github.
 
