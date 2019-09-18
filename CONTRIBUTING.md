@@ -1,9 +1,8 @@
 # Contributing
 
-![Contributing to the Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project](Media/Images/Page-Banner.png)
-We encourage students to submit their Unit Projects to this repository. Please follow the steps below to do so.
+![Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project Archive](Media/Images/research-archives-banner.png)
 
-If you would like to volunteer to the research project or student program as a professional, please use the contact form and select **Professional Volunteer**.
+We encourage our community to contribute to this repository. Please follow the steps below to do so. If you would like to volunteer to the research project or student program as a professional, please use the contact form and select **Professional Volunteer**.
 
 # Bug Reports
 
