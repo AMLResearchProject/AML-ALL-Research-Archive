@@ -48,15 +48,15 @@ The official team is currently made up of:
 
 - [Adam Milton-Barker](https://github.com/orgs/AMLResearchProject/people/AdamMiltonBarker "Adam Milton-Barker") - Bigfinite IoT Network Engineer & Intel Software Innovator
 
-- [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics
+- [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics - Intel Software Innovator
 
 - [Amita Kapoor](https://github.com/orgs/AMLResearchProject/people/amita-kapoor "Amita Kapoor") - Associate Professor @ Delhi University, New Dehli, India
 
-- [Estela Cabezas](https://www.facebook.com/Esteeelaa "Estela Cabezas") - Degree in Biotechnology @ Universitat de Vic, Catalunya, Spain
+- [Estela Cabezas](https://www.facebook.com/Esteeelaa "Estela Cabezas") - Degree in Biotechnology @ Universitat de Vic, Catalunya, Spain - Intel Software Innovator
 
 - [Salvatore Raieli​](https://github.com/orgs/AMLResearchProject/people/SalvatoreRa "Salvatore Raieli​") - Salvatore Raieli attended a Biotechnology degree at a university in Paris for his PhD.
 
-- [Rishabh Banga](https://github.com/orgs/AMLResearchProject/people/rishabhbanga "Rishabh Banga")​ - Software Dev @ Seamens. Awarded 1st by Prime Minister of Netherlands in a Hackathon.
+- [Rishabh Banga](https://github.com/orgs/AMLResearchProject/people/rishabhbanga "Rishabh Banga")​ - Software Dev @ Seamens. Awarded 1st by Prime Minister of Netherlands in a Hackathon - Intel Software Innovator
 
 ## Project Structure
 
