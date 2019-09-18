@@ -56,7 +56,7 @@ The official team is currently made up of:
 
 - [Salvatore Raieli​](https://github.com/orgs/AMLResearchProject/people/SalvatoreRa "Salvatore Raieli​") - Salvatore Raieli attended a Biotechnology degree at a university in Paris for his PhD.
 
-- [Rishabh Banga](https://github.com/orgs/AMLResearchProject/people/rishabhbanga "Rishabh Banga")​ - Software Dev @ Seamens. Awarded 1st by Prime Minister of Netherlands in a Hackathon - Intel Software Innovator
+- [Rishabh Banga](https://github.com/orgs/AMLResearchProject/people/rishabhbanga "Rishabh Banga")​ - Software Dev @ Seamens & Intel Software Innovator
 
 ## Project Structure
 
