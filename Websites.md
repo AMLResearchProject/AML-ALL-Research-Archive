@@ -32,6 +32,8 @@ Introduced to the project by [Ho Leung Ng](https://github.com/orgs/AMLResearchPr
 
 Thanks to [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics, the team has been granted permission from the developers to integrate their project into the [Acute Myeloid/Lymphoblastic Leukemia Drug Discovery Project](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Drug Discovery Project") which we are very grateful for!
 
+# Papers
+
 - [Leukemia Blood Cell Image Classification Using Convolutional Neural Network](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/9PAG39NJ "Leukemia Blood Cell Image Classification Using Convolutional Neural Network")
 
 - [Classification of acute myelogenous leukemia in blood microscopic images using supervised classifier](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/9XX3M296 "Classification of acute myelogenous leukemia in blood microscopic images using supervised classifier")
