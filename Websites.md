@@ -26,6 +26,27 @@ The [Hematology Atlas Leukemias](http://hematologyatlas.com/leukemias.htm) datas
 
 Introduced to the project by [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics.
 
+## Hematology and Oncology, Port St Lucie, Florida
+
+A private physician group specializing in Hematology and Oncology. Providing consultation, treatment, and follow-up care to patients referred to our specialty by the primary care physicians of the Treasure Coast and surrounding communities. The Port St Lucie Office was where Peter received his vidaza treatments and blood transfusions.
+
+**PHONE:** +1 772-335-5666  
+**WEBSITE:** [hemoncfl.com](https://www.hemoncfl.com/locations/#port "hemoncfl.com")  
+**FACEBOOK:** [Hematology Oncology Associates of The Treasure Coast, Port St Lucie](https://www.facebook.com/pages/Hematology-Oncology-Associates-of-The-Treasure-Coast/161402963887385 "Hematology Oncology Associates of The Treasure Coast, Port St Lucie")
+
+## Hospital Clínic Barcelona, Barcelona, Spain
+
+Hospital Clínic Barcelona iks a Leukemia research center Barcelona. Keep up to date with what is happening on the official Hospital Clínic de Barcelona blogThanks to Toni for sharing the link!
+
+**WEBSITE:** [HospitalClinic.org](http://blog.hospitalclinic.org/en/tag/leucemia-en "HospitalClinic.org")
+
+## Mayo Clinic, Rochester, Minnesota
+
+The Mayo Clinic is an American nonprofit academic medical center based in Rochester, Minnesota, focused on integrated clinical practice, education, and research. It employs more than 4,500 physicians and scientists, along with another 58,400 administrative and allied health staff.
+
+**WEBSITE:** [mayoclinic.org](https://www.mayoclinic.org/ "mayoclinic.org")  
+**FACEBOOK:** [Mayo Clinic](https://www.facebook.com/MayoClinic/ "Mayo Clinic")
+
 # ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)
 
 [ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)](https://github.com/aspuru-guzik-group/ORGANIC "ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)") is an efficient molecular generation tool, able to create molecules with desired properties. It has a user-oriented interface, and doesn't require a HPC cluster. Feel free to check our article about ORGANIC and/or contact the developers if you have any issue or are interested in collaborations.

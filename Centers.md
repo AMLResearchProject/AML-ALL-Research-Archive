@@ -4,9 +4,24 @@
 
 The Acute Myeloid/Lymphoblastic Leukemia AI Research Center Archive provides an archive of all Acute Myeloid/Lymphoblastic Leukemia related research centers that we come across during research and development.
 
+# Barcelona, Spain
+
+## Josep Carreras Leukaemia Research Institute, Barcelona, Spain
+
+In 2010 the Josep Carreras Foundation, together with the Generalitat de Catalunya (Government of Catalonia), launched an historic and unprecedented project: the first European research centre devoted exclusively to leukaemia and other malignant blood diseases, and one of the few that exist in the world.
+
+**PHONE:** (+34) 93 557 2800  
+**WEBSITE:** [CarrerasResearch.org](http://www.carrerasresearch.org/en "CarrerasResearch.org")
+
+## Hospital Clínic Barcelona, Barcelona, Spain
+
+Hospital Clínic Barcelona iks a Leukemia research center Barcelona. Keep up to date with what is happening on the official Hospital Clínic de Barcelona blogThanks to Toni for sharing the link!
+
+**WEBSITE:** [HospitalClinic.org](http://blog.hospitalclinic.org/en/tag/leucemia-en "HospitalClinic.org")
+
 # Florida, USA
 
-## Moffitt Cancer Center, Tampa Florida
+## Moffitt Cancer Center, Tampa, Florida
 
 Moffitt is dedicated to one lifesaving mission: to contribute to the prevention and cure of cancer. Moffitt assisted Peter during his year long battle with AML.
 
@@ -22,20 +37,14 @@ A private physician group specializing in Hematology and Oncology. Providing con
 **WEBSITE:** [hemoncfl.com](https://www.hemoncfl.com/locations/#port "hemoncfl.com")  
 **FACEBOOK:** [Hematology Oncology Associates of The Treasure Coast, Port St Lucie](https://www.facebook.com/pages/Hematology-Oncology-Associates-of-The-Treasure-Coast/161402963887385 "Hematology Oncology Associates of The Treasure Coast, Port St Lucie")
 
-# Barcelona, Spain
+# Minnesota USA
 
-## Josep Carreras Leukaemia Research Institute, Barcelona, Spain
+## Mayo Clinic, Rochester, Minnesota
 
-In 2010 the Josep Carreras Foundation, together with the Generalitat de Catalunya (Government of Catalonia), launched an historic and unprecedented project: the first European research centre devoted exclusively to leukaemia and other malignant blood diseases, and one of the few that exist in the world.
+The Mayo Clinic is an American nonprofit academic medical center based in Rochester, Minnesota, focused on integrated clinical practice, education, and research. It employs more than 4,500 physicians and scientists, along with another 58,400 administrative and allied health staff.
 
-**PHONE:** (+34) 93 557 2800  
-**WEBSITE:** [CarrerasResearch.org](http://www.carrerasresearch.org/en "CarrerasResearch.org")
-
-## Hospital Clínic Barcelona, Barcelona, Spain
-
-Hospital Clínic Barcelona iks a Leukemia research center Barcelona. Keep up to date with what is happening on the official Hospital Clínic de Barcelona blogThanks to Toni for sharing the link!
-
-**WEBSITE:** [HospitalClinic.org](http://blog.hospitalclinic.org/en/tag/leucemia-en "HospitalClinic.org")
+**WEBSITE:** [mayoclinic.org](https://www.mayoclinic.org/ "mayoclinic.org")  
+**FACEBOOK:** [Mayo Clinic](https://www.facebook.com/MayoClinic/ "Mayo Clinic")
 
 # Community Driven
 
