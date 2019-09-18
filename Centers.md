@@ -37,6 +37,13 @@ A private physician group specializing in Hematology and Oncology. Providing con
 **WEBSITE:** [hemoncfl.com](https://www.hemoncfl.com/locations/#port "hemoncfl.com")  
 **FACEBOOK:** [Hematology Oncology Associates of The Treasure Coast, Port St Lucie](https://www.facebook.com/pages/Hematology-Oncology-Associates-of-The-Treasure-Coast/161402963887385 "Hematology Oncology Associates of The Treasure Coast, Port St Lucie")
 
+## Yates Funeral Home & Cremation Services, Port St Lucie
+
+The Yates Funeral Home & Cremation Services Port St Lucie staff was where Peter's family held Peter's send off. It was a perfect send off he deserved! The service provided by Yates Funeral Home & Cremation Services Port St Lucie were outstanding.
+
+**WEBSITE:** [yatesfuneralhome.com](https://www.yatesfuneralhome.com/contact-us/facilities-and-directions "yatesfuneralhome.com")  
+**FACEBOOK:** [Yates Funeral Home & Cremation Services](https://www.facebook.com/YatesFuneralHome/ "Yates Funeral Home & Cremation Services")
+
 # Minnesota USA
 
 ## Mayo Clinic, Rochester, Minnesota

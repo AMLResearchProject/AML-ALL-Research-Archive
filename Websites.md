@@ -47,13 +47,6 @@ The Mayo Clinic is an American nonprofit academic medical center based in Roches
 **WEBSITE:** [mayoclinic.org](https://www.mayoclinic.org/ "mayoclinic.org")  
 **FACEBOOK:** [Mayo Clinic](https://www.facebook.com/MayoClinic/ "Mayo Clinic")
 
-# Yates Funeral Home & Cremation Services, Port St Lucie
-
-The Yates Funeral Home & Cremation Services Port St Lucie staff was where Peter's family held Peter's send off. It was a perfect send off he deserved! The service provided by Yates Funeral Home & Cremation Services Port St Lucie were outstanding.
-
-**WEBSITE:** [yatesfuneralhome.com](https://www.yatesfuneralhome.com/contact-us/facilities-and-directions "yatesfuneralhome.com")  
-**FACEBOOK:** [Yates Funeral Home & Cremation Services](https://www.facebook.com/YatesFuneralHome/ "Yates Funeral Home & Cremation Services")
-
 # ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)
 
 [ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)](https://github.com/aspuru-guzik-group/ORGANIC "ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)") is an efficient molecular generation tool, able to create molecules with desired properties. It has a user-oriented interface, and doesn't require a HPC cluster. Feel free to check our article about ORGANIC and/or contact the developers if you have any issue or are interested in collaborations.
@@ -79,6 +72,13 @@ Thanks to [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeun
 - [Diagnosing Leukemia in Blood Smear Images Using an Ensemble of Classifiers and Pre-Trained Convolutional Neural Networks](https://www.zotero.org/groups/2241402/acute_myeloid_leukemia/items/itemKey/35IIRLBU "Diagnosing Leukemia in Blood Smear Images Using an Ensemble of Classifiers and Pre-Trained Convolutional Neural Networks")
 
 Introduced to the project by [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics.
+
+# Yates Funeral Home & Cremation Services, Port St Lucie
+
+The Yates Funeral Home & Cremation Services Port St Lucie staff was where Peter's family held Peter's send off. It was a perfect send off he deserved! The service provided by Yates Funeral Home & Cremation Services Port St Lucie were outstanding.
+
+**WEBSITE:** [yatesfuneralhome.com](https://www.yatesfuneralhome.com/contact-us/facilities-and-directions "yatesfuneralhome.com")  
+**FACEBOOK:** [Yates Funeral Home & Cremation Services](https://www.facebook.com/YatesFuneralHome/ "Yates Funeral Home & Cremation Services")
 
 # Community Driven
 
