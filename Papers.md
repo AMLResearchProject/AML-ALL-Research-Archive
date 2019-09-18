@@ -25,7 +25,7 @@ Introduced to the project by [Ho Leung Ng](https://github.com/holeung "Ho Leung 
 
 Paper on the functional genomic landscape of acute myeloid leukaemia by Tyner et al. [Paper](https://github.com/AMLResearchProject/AML-Classifiers/blob/master/Papers/CNN-AML-Papers.md "Paper").
 
-Introduced to the project by [Ho Leung Ng](https://github.com/AdamMiltonBarker "Ho Leung Ng").
+Introduced to the project by [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics.
 
 # Community Driven
 

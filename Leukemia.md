@@ -18,7 +18,9 @@ Figure 1: Blood smear showing acute myeloid leukemia cells
 
 Our project involves using the latest artificial intelligence methods for automated classification of leukemias from blood smears. Successful classification will aid physicians. We may also discover new blood smear features that can aid classification.
 
-Authored by [Ho Leung Ng](https://github.com/AdamMiltonBarker "Ho Leung Ng").# Community Driven
+Authored by [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics.
+
+# Community Driven
 
 The project was initially create with the hope other developers and people in the medical industry may find the software and tutorials useful and may contribute back to the Github community helping improve the project. Feel free to submit pull requests with your suggested edits / bug fixes / additions to the related repositories on Github.
 

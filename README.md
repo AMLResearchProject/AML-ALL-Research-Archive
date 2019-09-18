@@ -10,12 +10,23 @@ Links to all public research papers, code, tutorials and datasets that we come a
 
 ## Research Archives
 
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Papers Archive](https://github.com/AdamMiltonBarker/AML-ALL-Research-Archive/blob/master/Papers.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Papers Archive")
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Leukemia Information Archive](https://github.com/AdamMiltonBarker/AML-ALL-Research-Archive/blob/master/Leukemia.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Leukemia Information Archive")
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Datasets Archive](https://github.com/AdamMiltonBarker/AML-ALL-Research-Archive/blob/master/Datasets.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Datasets Archive")
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Drugs Archive](https://github.com/AdamMiltonBarker/AML-ALL-Research-Archive/blob/master/Drugs.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Drugs Archive")
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Software Archive](https://github.com/AdamMiltonBarker/AML-ALL-Research-Archive/blob/master/Software.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Software Archive")
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Code Archive](https://github.com/AdamMiltonBarker/AML-ALL-Research-Archive/blob/master/Code.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Code Archive")
+Our research archives will contain all public information we are able to find that is related to Acute Myeloid/Lymphoblastic Leukemia if we feel the information is relevant. We also would greatly appreciate others that have had experiences with AML/ALL sharing their experience and advice to the community.
+
+If you are not a dev/know how to use Github please email and it will be verified and uploaded on your behalf.
+
+The primary research archives are as follows:
+
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Papers Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/AML-ALL-Research-Archive/blob/master/Papers.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Papers Archive")
+
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Leukemia Information Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/AML-ALL-Research-Archive/blob/master/Leukemia.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Leukemia Information Archive")
+
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Datasets Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/AML-ALL-Research-Archive/blob/master/Datasets.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Datasets Archive")
+
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Drugs Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/AML-ALL-Research-Archive/blob/master/Drugs.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Drugs Archive")
+
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Software Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/AML-ALL-Research-Archive/blob/master/Software.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Software Archive")
+
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Code Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/AML-ALL-Research-Archive/blob/master/Code.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Code Archive")
 
 # About The Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project
 
@@ -28,20 +39,29 @@ The purpose of the project is to share public information related to AML/ALL, as
 The official team is currently made up of:
 
 - [Adam Milton-Barker](https://github.com/orgs/AMLResearchProject/people/AdamMiltonBarker "Adam Milton-Barker") - Bigfinite IoT Network Engineer & Intel Software Innovator
+
 - [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics
+
 - [Amita Kapoor](https://github.com/orgs/AMLResearchProject/people/amita-kapoor "Amita Kapoor") - Associate Professor @ Delhi University, New Dehli, India
+
 - [Estela Cabezas](https://www.facebook.com/Esteeelaa "Estela Cabezas") - Degree in Biotechnology @ Universitat de Vic, Catalunya, Spain
-- [Salvatore Raieli​](https://github.com/orgs/AMLResearchProject/people/SalvatoreRa "Salvatore Raieli​")
-- [Rishabh Banga](https://github.com/orgs/AMLResearchProject/people/rishabhbanga "Rishabh Banga")​
+
+- [Salvatore Raieli​](https://github.com/orgs/AMLResearchProject/people/SalvatoreRa "Salvatore Raieli​") - Salvatore Raieli attended a Biotechnology degree at a university in Paris for his PhD.
+
+- [Rishabh Banga](https://github.com/orgs/AMLResearchProject/people/rishabhbanga "Rishabh Banga")​ - Software Dev @ Seamens. Awarded 1st by Prime Minister of Netherlands in a Hackathon.
 
 ## Project Structure
 
 The project is split up into multiple smaller projects. The current structure includes:
 
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Archive")
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Classifiers](https://github.com/AMLResearchProject/AML-ALL-Classifiers "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Classifiers")
+
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Classifiers](https://github.com/AMLResearchProject/AML-ALL-Research-Archive "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Classifiers")
+
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Detection System](https://github.com/AMLResearchProject/AML-ALL-Detection-System "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Detection System")
+
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Drug Discovery](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Drug Discovery")
+
 - [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Student Program](https://github.com/AMLResearchProject/AML-ALL-AI-Student-Program "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Student Program")
 
 # Community Driven
