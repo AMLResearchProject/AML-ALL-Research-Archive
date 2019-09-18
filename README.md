@@ -76,6 +76,12 @@ The Peter Moss Aml/All AI Student Program​ provides college & university stude
 
 The Student Program is headed by Peter Moss Aml/All AI Research Project​ team members [Ho Leung Ng](https://github.com/holeung "Ho  Leung Ng")​ - Dept. Biochemistry & Molecular Biophysics @ Kansas State University, and [Amita Kapoor](https://github.com/amita-kapoor "Amita Kapoor")​ - Associate Professor @ Delhi University.
 
+If you would like to join the Student Developer Program please answer the questions on the [Private AML/ALL AI Student Program Chat Group​](https://www.facebook.com/groups/AmlAllPrivateStudentAiProgram "Private AML/ALL AI Student Program Chat Group​").
+
+# Professional Volunteers
+
+If you would like to volunteer to the research project or student program as a professional, please use the contact form on our website and select **Professional Volunteer**.
+
 # Community Driven
 
 The project was initially created with the hope other developers and people in the medical industry may find the software and tutorials useful, and may contribute back to the Github community helping improve the project. Feel free to submit pull requests with your suggested edits / bug fixes / additions to the related repositories on Github.
