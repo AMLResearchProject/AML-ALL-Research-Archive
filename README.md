@@ -16,21 +16,21 @@ If you are not a dev/know how to use Github please email and it will be verified
 
 The primary research archives are as follows:
 
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Papers Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/AML-ALL-Research-Archive/blob/master/Papers.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Papers Archive")
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Papers Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/blob/master/Papers.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Papers Archive")
 
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Leukemia Information Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/AML-ALL-Research-Archive/blob/master/Leukemia.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Leukemia Information Archive")
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Leukemia Information Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/blob/master/Leukemia.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Leukemia Information Archive")
 
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Datasets Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/AML-ALL-Research-Archive/blob/master/Datasets.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Datasets Archive")
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Datasets Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/blob/master/Datasets.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Datasets Archive")
 
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Drugs Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/AML-ALL-Research-Archive/blob/master/Drugs.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Drugs Archive")
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Drugs Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/blob/master/Drugs.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Drugs Archive")
 
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Software Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/AML-ALL-Research-Archive/blob/master/Software.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Software Archive")
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Software Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/blob/master/Software.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Software Archive")
 
-- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Code Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/AML-ALL-Research-Archive/blob/master/Code.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Code Archive")
+- [Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Code Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/blob/master/Code.md "Peter Moss Acute Myeloid/Lymphoblastic Leukemia Project Research Code Archive")
 
-- [Acute Myeloid/Lymphoblastic Leukemia Related Websites Archive](https://github.com/AMLResearchProject/Websites "Acute Myeloid/Lymphoblastic Leukemia Related Websites Archive")
+- [Acute Myeloid/Lymphoblastic Leukemia Related Websites Archive](https://github.com/AMLResearchProject/blob/master/Websites "Acute Myeloid/Lymphoblastic Leukemia Related Websites Archive")
 
-- [Acute Myeloid/Lymphoblastic Leukemia Related Facebook Facebook Page, Group & Fundraisers](https://github.com/AMLResearchProject/Facebook "Acute Myeloid/Lymphoblastic Leukemia Related Facebook Page, Group & Fundraisers Archive")
+- [Acute Myeloid/Lymphoblastic Leukemia Related Facebook Facebook Page, Group & Fundraisers](https://github.com/AMLResearchProject/blob/master/Facebook "Acute Myeloid/Lymphoblastic Leukemia Related Facebook Page, Group & Fundraisers Archive")
 
 # About The Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project
 
