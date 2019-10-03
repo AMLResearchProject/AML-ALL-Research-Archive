@@ -1,8 +1,14 @@
-# Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Project Facebook Page, Group & Fundraisers Archive
+# Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project
 
-![Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project Archive](Media/Images/research-archives-banner.png)
+## AML & ALL Related Facebook Pages, Groups & Fundraisers Archive
 
-The Acute Myeloid/Lymphoblastic Leukemia AI Research Facebook Page, Group & Fundraisers Archive provides an archive of all Acute Myeloid/Lymphoblastic Leukemia related Facebook pages / Facebook groups & Facebook Fundraisers that we have been involved in that we come across during our R&D, as well as our own links. We also greatly appreciate community members that have had experiences with AML/ALL sharing their experience and advice to the community.
+![Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project](https://www.PeterMossAmlAllResearch.com/media/images/banner.png)
+
+&nbsp;
+
+### AML & ALL Related Facebook Pages, Groups & Fundraisers Archive
+
+<hr />
 
 ## Facebook Groups
 
@@ -16,11 +22,9 @@ The Acute Myeloid/Lymphoblastic Leukemia AI Research Facebook Page, Group & Fund
 
 - [Lung Cancer Survivers and Support Group](https://www.facebook.com/groups/LungcancerSurvivors "Lung Cancer Survivers and Support Group")
 
+<hr />
+
 ## Facebook Pages
-
-- [Peter Moss Aml/All AI Research Project](https://www.facebook.com/AMLResearchProject "Peter Moss Aml/All AI Research Project")
-
-- [Peter Moss Aml/All AI Student Program](https://www.facebook.com/PeterMossAmlAllAiStudentProject "Peter Moss Aml/All AI Student Program")
 
 - [Breast Cancer AI](https://www.facebook.com/BreastCancerAI "Breast Cancer AI")
 
@@ -28,15 +32,21 @@ The Acute Myeloid/Lymphoblastic Leukemia AI Research Facebook Page, Group & Fund
 
 - [Hematology Oncology Associates of The Treasure Coast, Port St Lucie](https://www.facebook.com/pages/Hematology-Oncology-Associates-of-The-Treasure-Coast/161402963887385 "Hematology Oncology Associates of The Treasure Coast, Port St Lucie")
 
-* [Hospital Clinic Barcelona](https://www.facebook.com/HospitalClinicDeBarcelona/ "Hospital Clinic Barcelona")
+- [Hospital Clinic Barcelona](https://www.facebook.com/HospitalClinicDeBarcelona/ "Hospital Clinic Barcelona")
 
-* [Mayo Clinic](https://www.facebook.com/MayoClinic/ "Mayo Clinic")
+- [Mayo Clinic](https://www.facebook.com/MayoClinic/ "Mayo Clinic")
 
-* [Miles For Moffitt](https://www.facebook.com/MilesforMoffitt/ "Miles For Moffitt")
+- [Miles For Moffitt](https://www.facebook.com/MilesforMoffitt/ "Miles For Moffitt")
 
-* [Moffitt Cancer Center](https://www.facebook.com/MoffittCancerCenter "Moffitt Cancer Center")
+- [Moffitt Cancer Center](https://www.facebook.com/MoffittCancerCenter "Moffitt Cancer Center")
+
+- [Peter Moss Aml/All AI Research Project](https://www.facebook.com/AMLResearchProject "Peter Moss Aml/All AI Research Project")
+
+- [Peter Moss Aml/All AI Student Program](https://www.facebook.com/PeterMossAmlAllAiStudentProject "Peter Moss Aml/All AI Student Program")
 
 * [Williams Cancer Institute](https://www.facebook.com/cryoimmunotherapy/ "Williams Cancer Institute")
+
+<hr />
 
 ## Facebook Fundraisers
 
@@ -46,9 +56,26 @@ Thanks to donators of 2 fundraisers a total of 945 euros has been raised for Mof
 
 - [Moffitt Cancer Center deserve help](https://www.facebook.com/donate/732669957170170/ "Moffitt Cancer Center deserve help")
 
-# Contributing
+<hr />
 
-he project was initially created with the hope other developers and people in the medical industry may find the software and tutorials useful and/or may contribute back to the Github community helping improve the project. Please read [CONTRIBUTING.md](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/blob/master/CONTRIBUTING.md "CONTRIBUTING.md") for details on our code of conduct, and the process for submitting pull requests.
+&nbsp;
+
+# Community Driven
+
+The project was initially created with the hope other developers and people in the medical industry may find the software and tutorials useful and may contribute back to the Github community helping improve the project. Feel free to submit pull requests with your suggested edits / bug fixes / additions to the related repositories on Github.
+
+## Contributing
+
+The Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research project encourages and welcomes code contributions, bug fixes and enhancements from the Github.
+
+Please read the [CONTRIBUTING](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/blob/master/CONTRIBUTING.md "CONTRIBUTING") document for a full guide to forking our repositories and submitting your pull requests. You will also find information about our code of conduct on this page.
+
+### Acute Myeloid & Lymphoblastic Leukemia Classifiers Contributors
+
+- [Adam Milton-Barker](https://www.petermossamlallresearch.com/team/adam-milton-barker/profile "Adam Milton-Barker") - Bigfinite IoT Network Engineer & Intel Software Innovator, Barcelona, Spain
+- [Ho Leung Ng](https://www.petermossamlallresearch.com/team/ho-leung-ng/profile "Ho Leung Ng") - Associate Professor of Biochemistry & Molecular Biophysics at Kansas State University, USA
+
+&nbsp;
 
 # Versioning
 
