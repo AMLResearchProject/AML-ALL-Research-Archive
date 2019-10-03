@@ -10,7 +10,12 @@ The Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project Archiv
 
 # Project Research
 
+<<<<<<< HEAD
 Links to all public research papers, code, tutorials and datasets that we come across during the R&D of this project will also be made available via the Research Archives and our Facebook pages.
+=======
+Links to all public research papers, code, tutorials and datasets that we come across during the R&D of this project will also be made available via the Research Archives.
+
+> > > > > > > e9c8f20b6023b913d27479fcd1c544a40806e2a4
 
 &nbsp;
 
