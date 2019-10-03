@@ -22,9 +22,9 @@ If you are not a dev/know how to use Github please email and it will be verified
 
 The primary research archives are as follows:
 
-- [Project AML/ALL Related Research Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archivetree/master/Leukemia/ "Project Leukemia Research Archive")
+- [Project AML/ALL Related Research Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/tree/master/Leukemia/ "Project Leukemia Research Archive")
 
-- [Project AML/ALL Related Research Papers/Articles Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archivetree/master/Papers-Articles/ "Project AML/ALL Related Research Papers/Articles Archive")
+- [Project AML/ALL Related Research Papers/Articles Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/tree/master/Papers-Articles/ "Project AML/ALL Related Research Papers/Articles Archive")
 
 - [Project AML/ALL Related Datasets Archive](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/tree/master/Datasets/ "Project AML/ALL Related Datasets Archive")
 
