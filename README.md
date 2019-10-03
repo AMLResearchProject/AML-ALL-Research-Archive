@@ -2,6 +2,9 @@
 
 ## AML & ALL Research Archives
 
+[![CURRENT RELEASE](https://img.shields.io/badge/CURRENT%20RELEASE-0.0.0-blue.svg)](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/tree/0.0.0)
+[![UPCOMING RELEASE](https://img.shields.io/badge/UPCOMING%20RELEASE-0.0.1-blue.svg)](https://github.com/AMLResearchProject/AML-ALL-Research-Archive/tree/0.0.1)
+
 ![Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project](https://www.PeterMossAmlAllResearch.com/media/images/banner.png)
 
 The Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project Archives document public information, datasets, code and papers related to Acute Myeloid Leukemia and Acute Lymphoblastic Leukemia that we come across through research and development.
